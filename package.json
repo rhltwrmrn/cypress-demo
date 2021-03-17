@@ -1,0 +1,19 @@
+{
+  "name": "@rhltwrmrn/cypress-demo",
+  "version": "1.0.0",
+  "description": "only for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aakanksha",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/rhltwrmrn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:rhltwrmrn/cypress-demo.git",
+    "directory": "@rhltwrmrn/cypress-demo"
+  }
+}

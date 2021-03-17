@@ -1,0 +1,29 @@
+{
+  "projectId": "2coxz5",
+  "chromeWebSecurity": false,
+  "viewportWidth": 1366,
+  "viewportHeight": 669,
+  "baseUrl": "http://localhost:8081",
+  "env": {
+    "addressUpdate": "Address Updated",
+    "filter":"Clear all",
+    "review":"Review added successfully",
+    "letter":"newsletter",
+    "updateCart":"Product updated successfully",
+    "login":"Customer login successfully",
+    "addProduct":"Product added successfully",
+    "deleteAddress":"Address has been deleted",
+    "cancelOrder":"Order is Cancelled",
+    "mobile":8860879728,
+    "cancelReason":"Price for the product has decreased",
+    "productPageUrl":"/category/men-shoetype-formalsmoccasin.html",
+    "locatorAddress":"D.No: 1-10-85/G,Survey No 74,Shashab Gutta,Mahaboobnagar,Telangana-509 001",
+    "email":"aakankshasareen11@gmail.com",
+    "orderProduct":"http://localhost:8081/category/men-shoetype-fashion.html",
+    "otp":"1234",
+    "username":"aakanksha",
+    "address":"tilak nagar delhi",
+    "pincode":"110018",
+    "searchValue":"s"
+  }
+}
